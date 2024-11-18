@@ -13,11 +13,6 @@ I'm enthusiastic about **Cybersecurity**.
 - 🔍 **Cybersecurity Projects:** A showcase of my work on security tools, vulnerability assessments, and penetration testing scripts.
 - 📄 **Detailed Documentation:** Clear, comprehensive documentation for each project to help you understand and replicate my work.<br><br>
 
-## Connect with Me
-
-- 📱 [X (Twitter)](https://x.com/secusavvy)
-- 📝 [Linkedin](https://www.linkedin.com/in/zakarye-ridoine/)<br><br>
-
 ## Let's Code Together!
 
 I believe in the power of collaboration and shared knowledge. If you’re passionate about cybersecurity or tech, let’s connect, learn together, and work on exciting projects. Feel free to reach out to me!
