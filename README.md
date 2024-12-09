@@ -3,6 +3,15 @@
 
 ## Hey there!
 
+<div align="center">
+  <a href="https://tryhackme.com/p/secusavvy" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/secusavvy.png" alt="thm" />
+  </a>
+</div>
+<br>
+<br>
+
+
 I'm enthusiastic about **Cybersecurity**.
 - 🔐 **IT-Network Administration Student** with a focus on network security and ethical hacking.
 - 🛠️ **Tech Explorer:** Constantly delving into the latest cybersecurity tools and technologies.
