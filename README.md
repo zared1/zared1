@@ -22,6 +22,12 @@ I'm enthusiastic about **Cybersecurity**.
 - 🔍 **Cybersecurity Projects:** A showcase of my work on security tools, vulnerability assessments, and penetration testing scripts.
 - 📄 **Detailed Documentation:** Clear, comprehensive documentation for each project to help you understand and replicate my work.<br><br>
 
+## My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=secusavvy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secusavvy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Let's Code Together!
 
 I believe in the power of collaboration and shared knowledge. If you’re passionate about cybersecurity or tech, let’s connect, learn together, and work on exciting projects. Feel free to reach out to me!
