@@ -22,7 +22,7 @@ I'm enthusiastic about **Cybersecurity**.
 <div align="center">
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zared1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zridoine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--horizontal divider(gradiant)-->
