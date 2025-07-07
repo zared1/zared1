@@ -1,29 +1,31 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Greetings,
 
+```
+███████╗██████╗ ██╗██████╗  ██████╗ ██╗███╗   ██╗███████╗    Github: https://github.com/zridoine
+╚══███╔╝██╔══██╗██║██╔══██╗██╔═══██╗██║████╗  ██║██╔════╝    Blog: https://zridoine.github.io/
+  ███╔╝ ██████╔╝██║██║  ██║██║   ██║██║██╔██╗ ██║█████╗      Linkedin: 
+ ███╔╝  ██╔══██╗██║██║  ██║██║   ██║██║██║╚██╗██║██╔══╝      THM: 
+███████╗██║  ██║██║██████╔╝╚██████╔╝██║██║ ╚████║███████╗    Medium: 
+╚══════╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝    Discord: 
+```
 
-## Hey there!
+I’m a **Network & System Administrator Technicien** with a recently earned diploma in IT Network & Sytem Administration.
 
-I'm enthusiastic about **Cybersecurity**.
-- 🔐 **IT-Network Administration Student** with a focus on network security and ethical hacking.
-- 🛠️ **Tech Explorer:** Constantly delving into the latest cybersecurity tools and technologies.
-- 📚 **Lifelong Learner:** Dedicated to mastering the art of protecting digital assets and improving my skills every day.<br><br>
+* **Network & System Administrator**: Configuring, managing IT infrastructures.
+* **Technology Enthusiast**: Continuously exploring and implementing cutting-edge cybersecurity tools and methodologies.
+* **Lifelong Learner**: Dedicated to staying ahead of evolving cyber threats and continuously building my skills in digital asset protection.
 
-## What You'll Find Here:
+## What You Will Find Here:
 
-- 🔍 **Cybersecurity Projects:** A showcase of my work on security tools, vulnerability assessments, and penetration testing scripts.
-- 📄 **Detailed Documentation:** Clear, comprehensive documentation for each project to help you understand and replicate my work.<br><br>
-
-## How to reach me:
-- 📧: ridoinezakarye@gmail.com
+**What You’ll Find Here**
+* **Cybersecurity Projects**: A growing portfolio that includes security tools, vulneurationrability assessments, and custom penetration testing scripts.
+* **Network Projects**: Practical implementations covering network setup, topologies and config
+* **Systems Projects**: Practical implementations covering Linux & Windows server setups, system automation, and administration tasks.
+* **Well-Documented Work**: Each project includes detailed explanations and guides to help others understand, replicate, and build upon my work.
 
 ## My Stats:
+<p >
+<div href="#-my-github-stats--"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zridoine&layout=compact&theme=dark&title_color=FFC300&text_color=CDD6F4&bg_color=090D13&border_radius=5&langs_count=8&card_width=500" /></div>
+</p>
 
-<div align="center">
-  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zridoine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
