@@ -1,16 +1,17 @@
 ## Greetings,
 
 ```
-███████╗██████╗ ██╗██████╗  ██████╗ ██╗███╗   ██╗███████╗    Github: https://github.com/zridoine
-╚══███╔╝██╔══██╗██║██╔══██╗██╔═══██╗██║████╗  ██║██╔════╝    Blog: https://zridoine.github.io/
-  ███╔╝ ██████╔╝██║██║  ██║██║   ██║██║██╔██╗ ██║█████╗      Linkedin: 
- ███╔╝  ██╔══██╗██║██║  ██║██║   ██║██║██║╚██╗██║██╔══╝      THM: 
-███████╗██║  ██║██║██████╔╝╚██████╔╝██║██║ ╚████║███████╗    Medium: 
+███████╗██████╗ ██╗██████╗  ██████╗ ██╗███╗   ██╗███████╗    Linkedin: https://www.linkedin.com/in/zakarye-ridoine/
+╚══███╔╝██╔══██╗██║██╔══██╗██╔═══██╗██║████╗  ██║██╔════╝    My Blog: https://zridoine.github.io/
+  ███╔╝ ██████╔╝██║██║  ██║██║   ██║██║██╔██╗ ██║█████╗      Medium: 
+ ███╔╝  ██╔══██╗██║██║  ██║██║   ██║██║██║╚██╗██║██╔══╝      Github: https://github.com/zridoine
+███████╗██║  ██║██║██████╔╝╚██████╔╝██║██║ ╚████║███████╗    THM: https://tryhackme.com/p/zridoine
 ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝    Discord: 
 ```
 
-I’m a **Network & System Administrator Technicien** with a recently earned diploma in IT Network & Sytem Administration.
+## About:
 
+I’m a **Network & System Administrator Technicien** with a recently earned diploma in IT Network & Sytem Administration.
 * **Network & System Administrator**: Configuring, managing IT infrastructures.
 * **Technology Enthusiast**: Continuously exploring and implementing cutting-edge cybersecurity tools and methodologies.
 * **Lifelong Learner**: Dedicated to staying ahead of evolving cyber threats and continuously building my skills in digital asset protection.
@@ -24,8 +25,9 @@ I’m a **Network & System Administrator Technicien** with a recently earned dip
 * **Well-Documented Work**: Each project includes detailed explanations and guides to help others understand, replicate, and build upon my work.
 
 ## My Stats:
-<p >
-<div href="#-my-github-stats--"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zridoine&layout=compact&theme=dark&title_color=FFC300&text_color=CDD6F4&bg_color=090D13&border_radius=5&langs_count=8&card_width=500" /></div>
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zridoine&show_icons=true&locale=en&layout=compact" alt="moabid42" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zridoine&show_icons=true&locale=en" alt="moabid42" /></p>
 
 
