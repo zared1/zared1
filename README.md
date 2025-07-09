@@ -8,10 +8,9 @@
 ███████╗██║  ██║██║██████╔╝╚██████╔╝██║██║ ╚████║███████╗   THM: https://tryhackme.com/p/zridoine
 ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝   Discord: @zridoine
 ```
-
 ## About:
 
-I’m a **Network & System Administrator Technicien** with a recently earned diploma in IT Network & Sytem Administration.
+![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=FFFFFF&width=600&lines=Network+%26+System+Administrator+Technicien)
 * **Network & System Administrator**: Configuring, managing IT infrastructures.
 * **Technology Enthusiast**: Continuously exploring and implementing cutting-edge cybersecurity tools and methodologies.
 * **Lifelong Learner**: Dedicated to staying ahead of evolving cyber threats and continuously building my skills in digital asset protection.
