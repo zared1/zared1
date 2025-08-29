@@ -1,11 +1,11 @@
 ## Greetings,
 ```
-███████╗ █████╗ ██████╗ ███████╗██████╗  ██╗                Linkedin: https://www.linkedin.com/in/zridoine/
-╚══███╔╝██╔══██╗██╔══██╗██╔════╝██╔══██╗███║                My Blog: https://zared1.github.io/
-  ███╔╝ ███████║██████╔╝█████╗  ██║  ██║╚██║                Medium: https://zared1.medium.com
- ███╔╝  ██╔══██║██╔══██╗██╔══╝  ██║  ██║ ██║                Github: https://github.com/zared1
-███████╗██║  ██║██║  ██║███████╗██████╔╝ ██║                THM: https://tryhackme.com/p/zared1
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚═╝                Discord: @0xzared1
+       ███████╗ █████╗ ██████╗ ███████╗██████╗  ██╗         Linkedin: https://www.linkedin.com/in/zridoine/
+       ╚══███╔╝██╔══██╗██╔══██╗██╔════╝██╔══██╗███║         My Blog: https://zared1.github.io/
+         ███╔╝ ███████║██████╔╝█████╗  ██║  ██║╚██║         Medium: https://zared1.medium.com
+        ███╔╝  ██╔══██║██╔══██╗██╔══╝  ██║  ██║ ██║         Github: https://github.com/zared1
+       ███████╗██║  ██║██║  ██║███████╗██████╔╝ ██║         THM: https://tryhackme.com/p/zared1
+       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚═╝         Discord: @0xzared1
 ```
 
 ## About:
