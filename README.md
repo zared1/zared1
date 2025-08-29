@@ -1,13 +1,13 @@
 ## Greetings,
+```
+███████╗ █████╗ ██████╗ ███████╗██████╗  ██╗                Linkedin: https://www.linkedin.com/in/zridoine/
+╚══███╔╝██╔══██╗██╔══██╗██╔════╝██╔══██╗███║                My Blog: https://zared1.github.io/
+  ███╔╝ ███████║██████╔╝█████╗  ██║  ██║╚██║                Medium: https://zared1.medium.com
+ ███╔╝  ██╔══██║██╔══██╗██╔══╝  ██║  ██║ ██║                Github: https://github.com/zared1
+███████╗██║  ██║██║  ██║███████╗██████╔╝ ██║                THM: https://tryhackme.com/p/zared1
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚═╝                Discord: @0xzared1
+```
 
-```
-███████╗██████╗ ██╗██████╗  ██████╗ ██╗███╗   ██╗███████╗   Linkedin: https://www.linkedin.com/in/zakarye-ridoine/
-╚══███╔╝██╔══██╗██║██╔══██╗██╔═══██╗██║████╗  ██║██╔════╝   My Blog: https://zridoine.github.io/
-  ███╔╝ ██████╔╝██║██║  ██║██║   ██║██║██╔██╗ ██║█████╗     Medium: https://zridoine.medium.com
- ███╔╝  ██╔══██╗██║██║  ██║██║   ██║██║██║╚██╗██║██╔══╝     Github: https://github.com/zridoine
-███████╗██║  ██║██║██████╔╝╚██████╔╝██║██║ ╚████║███████╗   THM: https://tryhackme.com/p/zridoine
-╚══════╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝   Discord: @zridoine
-```
 ## About:
 
 ![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=FFFFFF&width=600&lines=Network+%26+System+Administrator+Technicien)
