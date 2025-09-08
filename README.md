@@ -10,7 +10,8 @@
 
 ## About:
 
-![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=FFFFFF&width=900&lines=Exploring+the+world+of+networks+and+systems%2C+one+packet+at+a+time)
+![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=FFFFFF&width=900&lines=Exploring+the+world+of+networks+and+systems%2C+one+packet+at+a+time+%3A%29)
+
 * **Network & System Administrator**: Configuring, managing IT infrastructures.
 * **Technology Enthusiast**: Continuously exploring and implementing cutting-edge cybersecurity tools and methodologies.
 * **Lifelong Learner**: Dedicated to staying ahead of evolving cyber threats and continuously building my skills in digital asset protection.
