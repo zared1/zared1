@@ -26,10 +26,6 @@
 
 ## My Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zared1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zared1&layout=compact&show_icons=true&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zared1&layout=compact&show_icons=true&theme=tokyonight" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zared1&show_icons=true&locale=en&layout=compact" alt="zared1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zared1&show_icons=true&locale=en" alt="zared1" /></p>
