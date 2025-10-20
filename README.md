@@ -24,6 +24,13 @@
 * **Systems Projects**: Practical implementations covering Linux & Windows server setups, system automation, and administration tasks.
 * **Well-Documented Work**: Each project includes detailed explanations and guides to help others understand, replicate, and build upon my work.
 
+## Currently Working On
+
+| Project | Link |
+|----------|------|
+| **Technical Blog** | [My Blog](https://zared1.github.io) |
+| **Python Projects for Ethical Hacking and Network Analysis** | [Repo](https://github.com/zared1/CS-Projects) |
+
 ## My Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zared1&show_icons=true&locale=en&layout=compact" alt="zared1" /></p>
