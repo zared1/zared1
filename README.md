@@ -26,10 +26,12 @@
 
 ## Currently Working On
 
+## Currently Working On
+
 | Project | Link |
 |----------|------|
-| **Technical Blog** | [My Blog](https://zared1.github.io){:target="_blank" rel="noopener noreferrer"} |
-| **Python Projects for Ethical Hacking and Network Analysis** | [Repo](https://github.com/zared1/CS-Projects){:target="_blank" rel="noopener noreferrer"} |
+| **Technical Blog** | <a href="https://zared1.github.io" target="_blank" rel="noopener noreferrer">My Blog</a> |
+| **Python Projects for Ethical Hacking and Network Analysis** | <a href="https://github.com/zared1/CS-Projects" target="_blank" rel="noopener noreferrer">Repo</a> |
 
 ## My Stats:
 
