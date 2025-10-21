@@ -28,8 +28,8 @@
 
 | Project | Link |
 |----------|------|
-| **Technical Blog** | [My Blog](https://zared1.github.io) |
-| **Python Projects for Ethical Hacking and Network Analysis** | [Repo](https://github.com/zared1/CS-Projects) |
+| **Technical Blog** | [My Blog](https://zared1.github.io){:target="_blank" rel="noopener noreferrer"} |
+| **Python Projects for Ethical Hacking and Network Analysis** | [Repo](https://github.com/zared1/CS-Projects){:target="_blank" rel="noopener noreferrer"} |
 
 ## My Stats:
 
